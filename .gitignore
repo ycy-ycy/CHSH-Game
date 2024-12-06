@@ -1,0 +1,9 @@
+.vs/
+Final/
+*.exp
+*.lib
+*.pdb
+*.vcxproj.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
