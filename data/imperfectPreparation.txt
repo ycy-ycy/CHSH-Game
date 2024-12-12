@@ -1,0 +1,706 @@
+Error Rate:  0.0
+Winning rate with x = 0 and y = 0: 0.853674( 106938 / 125268 )
+Winning rate with x = 0 and y = 1: 0.85448( 106798 / 124986 )
+Winning rate with x = 1 and y = 0: 0.85315( 106671 / 125032 )
+Winning rate with x = 1 and y = 1: 0.854411( 106557 / 124714 )
+Overall winning rate: 0.853928( 426964 / 500000 )
+
+Error Rate:  0.01
+Winning rate with x = 0 and y = 0: 0.849477( 106075 / 124871 )
+Winning rate with x = 0 and y = 1: 0.848356( 106495 / 125531 )
+Winning rate with x = 1 and y = 0: 0.849896( 105903 / 124607 )
+Winning rate with x = 1 and y = 1: 0.849677( 106202 / 124991 )
+Overall winning rate: 0.84935( 424675 / 500000 )
+
+Error Rate:  0.02
+Winning rate with x = 0 and y = 0: 0.844721( 106108 / 125613 )
+Winning rate with x = 0 and y = 1: 0.846711( 105468 / 124562 )
+Winning rate with x = 1 and y = 0: 0.846999( 105758 / 124862 )
+Winning rate with x = 1 and y = 1: 0.846194( 105743 / 124963 )
+Overall winning rate: 0.846154( 423077 / 500000 )
+
+Error Rate:  0.03
+Winning rate with x = 0 and y = 0: 0.84303( 105367 / 124986 )
+Winning rate with x = 0 and y = 1: 0.843789( 105358 / 124863 )
+Winning rate with x = 1 and y = 0: 0.842696( 105230 / 124873 )
+Winning rate with x = 1 and y = 1: 0.841417( 105411 / 125278 )
+Overall winning rate: 0.842732( 421366 / 500000 )
+
+Error Rate:  0.04
+Winning rate with x = 0 and y = 0: 0.840016( 104619 / 124544 )
+Winning rate with x = 0 and y = 1: 0.838338( 104882 / 125107 )
+Winning rate with x = 1 and y = 0: 0.838516( 104895 / 125096 )
+Winning rate with x = 1 and y = 1: 0.839245( 105118 / 125253 )
+Overall winning rate: 0.839028( 419514 / 500000 )
+
+Error Rate:  0.05
+Winning rate with x = 0 and y = 0: 0.83642( 104141 / 124508 )
+Winning rate with x = 0 and y = 1: 0.837514( 104964 / 125328 )
+Winning rate with x = 1 and y = 0: 0.835262( 104498 / 125108 )
+Winning rate with x = 1 and y = 1: 0.837425( 104725 / 125056 )
+Overall winning rate: 0.836656( 418328 / 500000 )
+
+Error Rate:  0.06
+Winning rate with x = 0 and y = 0: 0.834963( 104362 / 124990 )
+Winning rate with x = 0 and y = 1: 0.830223( 103758 / 124976 )
+Winning rate with x = 1 and y = 0: 0.832296( 104072 / 125042 )
+Winning rate with x = 1 and y = 1: 0.832973( 104115 / 124992 )
+Overall winning rate: 0.832614( 416307 / 500000 )
+
+Error Rate:  0.07
+Winning rate with x = 0 and y = 0: 0.830661( 103782 / 124939 )
+Winning rate with x = 0 and y = 1: 0.828145( 103572 / 125065 )
+Winning rate with x = 1 and y = 0: 0.827463( 103739 / 125370 )
+Winning rate with x = 1 and y = 1: 0.828399( 103240 / 124626 )
+Overall winning rate: 0.828666( 414333 / 500000 )
+
+Error Rate:  0.08
+Winning rate with x = 0 and y = 0: 0.824756( 103045 / 124940 )
+Winning rate with x = 0 and y = 1: 0.8256( 103465 / 125321 )
+Winning rate with x = 1 and y = 0: 0.824116( 102881 / 124838 )
+Winning rate with x = 1 and y = 1: 0.826751( 103262 / 124901 )
+Overall winning rate: 0.825306( 412653 / 500000 )
+
+Error Rate:  0.09
+Winning rate with x = 0 and y = 0: 0.821003( 102760 / 125164 )
+Winning rate with x = 0 and y = 1: 0.821975( 102894 / 125179 )
+Winning rate with x = 1 and y = 0: 0.82192( 102749 / 125011 )
+Winning rate with x = 1 and y = 1: 0.822016( 102461 / 124646 )
+Overall winning rate: 0.821728( 410864 / 500000 )
+
+Error Rate:  0.1
+Winning rate with x = 0 and y = 0: 0.820045( 102700 / 125237 )
+Winning rate with x = 0 and y = 1: 0.818339( 102159 / 124837 )
+Winning rate with x = 1 and y = 0: 0.817987( 102124 / 124848 )
+Winning rate with x = 1 and y = 1: 0.818473( 102373 / 125078 )
+Overall winning rate: 0.818712( 409356 / 500000 )
+
+Error Rate:  0.11
+Winning rate with x = 0 and y = 0: 0.81587( 102315 / 125406 )
+Winning rate with x = 0 and y = 1: 0.815444( 102030 / 125122 )
+Winning rate with x = 1 and y = 0: 0.815804( 101371 / 124259 )
+Winning rate with x = 1 and y = 1: 0.813454( 101855 / 125213 )
+Overall winning rate: 0.815142( 407571 / 500000 )
+
+Error Rate:  0.12
+Winning rate with x = 0 and y = 0: 0.813553( 101219 / 124416 )
+Winning rate with x = 0 and y = 1: 0.81102( 101513 / 125167 )
+Winning rate with x = 1 and y = 0: 0.808658( 101468 / 125477 )
+Winning rate with x = 1 and y = 1: 0.811806( 101427 / 124940 )
+Overall winning rate: 0.811254( 405627 / 500000 )
+
+Error Rate:  0.13
+Winning rate with x = 0 and y = 0: 0.80673( 101118 / 125343 )
+Winning rate with x = 0 and y = 1: 0.80674( 100853 / 125013 )
+Winning rate with x = 1 and y = 0: 0.807757( 100754 / 124733 )
+Winning rate with x = 1 and y = 1: 0.804989( 100552 / 124911 )
+Overall winning rate: 0.806554( 403277 / 500000 )
+
+Error Rate:  0.14
+Winning rate with x = 0 and y = 0: 0.804722( 100591 / 125001 )
+Winning rate with x = 0 and y = 1: 0.803675( 100203 / 124681 )
+Winning rate with x = 1 and y = 0: 0.803117( 100433 / 125054 )
+Winning rate with x = 1 and y = 1: 0.802417( 100514 / 125264 )
+Overall winning rate: 0.803482( 401741 / 500000 )
+
+Error Rate:  0.15
+Winning rate with x = 0 and y = 0: 0.79848( 99941 / 125164 )
+Winning rate with x = 0 and y = 1: 0.801332( 100556 / 125486 )
+Winning rate with x = 1 and y = 0: 0.79966( 99796 / 124798 )
+Winning rate with x = 1 and y = 1: 0.801087( 99777 / 124552 )
+Overall winning rate: 0.80014( 400070 / 500000 )
+
+Error Rate:  0.16
+Winning rate with x = 0 and y = 0: 0.796836( 99744 / 125175 )
+Winning rate with x = 0 and y = 1: 0.797735( 99334 / 124520 )
+Winning rate with x = 1 and y = 0: 0.797137( 99792 / 125188 )
+Winning rate with x = 1 and y = 1: 0.79671( 99682 / 125117 )
+Overall winning rate: 0.797104( 398552 / 500000 )
+
+Error Rate:  0.17
+Winning rate with x = 0 and y = 0: 0.792304( 99118 / 125101 )
+Winning rate with x = 0 and y = 1: 0.792897( 99258 / 125184 )
+Winning rate with x = 1 and y = 0: 0.795779( 99084 / 124512 )
+Winning rate with x = 1 and y = 1: 0.791427( 99089 / 125203 )
+Overall winning rate: 0.793098( 396549 / 500000 )
+
+Error Rate:  0.18
+Winning rate with x = 0 and y = 0: 0.789405( 98614 / 124922 )
+Winning rate with x = 0 and y = 1: 0.790037( 99126 / 125470 )
+Winning rate with x = 1 and y = 0: 0.788553( 98409 / 124797 )
+Winning rate with x = 1 and y = 1: 0.789329( 98517 / 124811 )
+Overall winning rate: 0.789332( 394666 / 500000 )
+
+Error Rate:  0.19
+Winning rate with x = 0 and y = 0: 0.786514( 98330 / 125020 )
+Winning rate with x = 0 and y = 1: 0.784121( 98048 / 125042 )
+Winning rate with x = 1 and y = 0: 0.785987( 98367 / 125151 )
+Winning rate with x = 1 and y = 1: 0.786861( 98190 / 124787 )
+Overall winning rate: 0.78587( 392935 / 500000 )
+
+Error Rate:  0.2
+Winning rate with x = 0 and y = 0: 0.782446( 97873 / 125086 )
+Winning rate with x = 0 and y = 1: 0.78319( 97699 / 124745 )
+Winning rate with x = 1 and y = 0: 0.781814( 97869 / 125182 )
+Winning rate with x = 1 and y = 1: 0.784146( 98008 / 124987 )
+Overall winning rate: 0.782898( 391449 / 500000 )
+
+Error Rate:  0.21
+Winning rate with x = 0 and y = 0: 0.777749( 97228 / 125012 )
+Winning rate with x = 0 and y = 1: 0.779031( 97403 / 125031 )
+Winning rate with x = 1 and y = 0: 0.778308( 96725 / 124276 )
+Winning rate with x = 1 and y = 1: 0.780532( 98098 / 125681 )
+Overall winning rate: 0.778908( 389454 / 500000 )
+
+Error Rate:  0.22
+Winning rate with x = 0 and y = 0: 0.775813( 96906 / 124909 )
+Winning rate with x = 0 and y = 1: 0.77616( 96992 / 124964 )
+Winning rate with x = 1 and y = 0: 0.775143( 97275 / 125493 )
+Winning rate with x = 1 and y = 1: 0.77584( 96696 / 124634 )
+Overall winning rate: 0.775738( 387869 / 500000 )
+
+Error Rate:  0.23
+Winning rate with x = 0 and y = 0: 0.771649( 96264 / 124751 )
+Winning rate with x = 0 and y = 1: 0.772226( 96895 / 125475 )
+Winning rate with x = 1 and y = 0: 0.772999( 96444 / 124766 )
+Winning rate with x = 1 and y = 1: 0.774214( 96783 / 125008 )
+Overall winning rate: 0.772772( 386386 / 500000 )
+
+Error Rate:  0.24
+Winning rate with x = 0 and y = 0: 0.769783( 96453 / 125299 )
+Winning rate with x = 0 and y = 1: 0.768436( 96136 / 125106 )
+Winning rate with x = 1 and y = 0: 0.768427( 95547 / 124341 )
+Winning rate with x = 1 and y = 1: 0.768798( 96295 / 125254 )
+Overall winning rate: 0.768862( 384431 / 500000 )
+
+Error Rate:  0.25
+Winning rate with x = 0 and y = 0: 0.763164( 95165 / 124698 )
+Winning rate with x = 0 and y = 1: 0.763299( 95836 / 125555 )
+Winning rate with x = 1 and y = 0: 0.765732( 95561 / 124797 )
+Winning rate with x = 1 and y = 1: 0.767283( 95872 / 124950 )
+Overall winning rate: 0.764868( 382434 / 500000 )
+
+Error Rate:  0.26
+Winning rate with x = 0 and y = 0: 0.762445( 95279 / 124965 )
+Winning rate with x = 0 and y = 1: 0.761041( 95054 / 124900 )
+Winning rate with x = 1 and y = 0: 0.76266( 95546 / 125280 )
+Winning rate with x = 1 and y = 1: 0.763061( 95272 / 124855 )
+Overall winning rate: 0.762302( 381151 / 500000 )
+
+Error Rate:  0.27
+Winning rate with x = 0 and y = 0: 0.758684( 94702 / 124824 )
+Winning rate with x = 0 and y = 1: 0.757909( 94506 / 124693 )
+Winning rate with x = 1 and y = 0: 0.755871( 94595 / 125147 )
+Winning rate with x = 1 and y = 1: 0.756391( 94803 / 125336 )
+Overall winning rate: 0.757212( 378606 / 500000 )
+
+Error Rate:  0.28
+Winning rate with x = 0 and y = 0: 0.751228( 94222 / 125424 )
+Winning rate with x = 0 and y = 1: 0.753729( 94186 / 124960 )
+Winning rate with x = 1 and y = 0: 0.753289( 93801 / 124522 )
+Winning rate with x = 1 and y = 1: 0.756663( 94654 / 125094 )
+Overall winning rate: 0.753726( 376863 / 500000 )
+
+Error Rate:  0.29
+Winning rate with x = 0 and y = 0: 0.75144( 93555 / 124501 )
+Winning rate with x = 0 and y = 1: 0.752186( 94124 / 125134 )
+Winning rate with x = 1 and y = 0: 0.753225( 93937 / 124713 )
+Winning rate with x = 1 and y = 1: 0.748289( 94024 / 125652 )
+Overall winning rate: 0.75128( 375640 / 500000 )
+
+Error Rate:  0.3
+Winning rate with x = 0 and y = 0: 0.746234( 93421 / 125190 )
+Winning rate with x = 0 and y = 1: 0.748849( 93338 / 124642 )
+Winning rate with x = 1 and y = 0: 0.74841( 93543 / 124989 )
+Winning rate with x = 1 and y = 1: 0.746906( 93497 / 125179 )
+Overall winning rate: 0.747598( 373799 / 500000 )
+
+Error Rate:  0.31
+Winning rate with x = 0 and y = 0: 0.746049( 93145 / 124851 )
+Winning rate with x = 0 and y = 1: 0.743691( 93235 / 125368 )
+Winning rate with x = 1 and y = 0: 0.74571( 92914 / 124598 )
+Winning rate with x = 1 and y = 1: 0.744015( 93138 / 125183 )
+Overall winning rate: 0.744864( 372432 / 500000 )
+
+Error Rate:  0.32
+Winning rate with x = 0 and y = 0: 0.739673( 92627 / 125227 )
+Winning rate with x = 0 and y = 1: 0.736945( 91973 / 124803 )
+Winning rate with x = 1 and y = 0: 0.739441( 92442 / 125016 )
+Winning rate with x = 1 and y = 1: 0.740793( 92565 / 124954 )
+Overall winning rate: 0.739214( 369607 / 500000 )
+
+Error Rate:  0.33
+Winning rate with x = 0 and y = 0: 0.735689( 92009 / 125065 )
+Winning rate with x = 0 and y = 1: 0.734935( 91567 / 124592 )
+Winning rate with x = 1 and y = 0: 0.737052( 92503 / 125504 )
+Winning rate with x = 1 and y = 1: 0.737822( 92109 / 124839 )
+Overall winning rate: 0.736376( 368188 / 500000 )
+
+Error Rate:  0.34
+Winning rate with x = 0 and y = 0: 0.734811( 92146 / 125401 )
+Winning rate with x = 0 and y = 1: 0.732719( 91943 / 125482 )
+Winning rate with x = 1 and y = 0: 0.733094( 91007 / 124141 )
+Winning rate with x = 1 and y = 1: 0.732677( 91567 / 124976 )
+Overall winning rate: 0.733326( 366663 / 500000 )
+
+Error Rate:  0.35000000000000003
+Winning rate with x = 0 and y = 0: 0.730829( 91415 / 125084 )
+Winning rate with x = 0 and y = 1: 0.72936( 91092 / 124893 )
+Winning rate with x = 1 and y = 0: 0.732391( 91677 / 125175 )
+Winning rate with x = 1 and y = 1: 0.730849( 91245 / 124848 )
+Overall winning rate: 0.730858( 365429 / 500000 )
+
+Error Rate:  0.36
+Winning rate with x = 0 and y = 0: 0.725828( 91352 / 125859 )
+Winning rate with x = 0 and y = 1: 0.726177( 90332 / 124394 )
+Winning rate with x = 1 and y = 0: 0.725881( 90987 / 125347 )
+Winning rate with x = 1 and y = 1: 0.726881( 90424 / 124400 )
+Overall winning rate: 0.72619( 363095 / 500000 )
+
+Error Rate:  0.37
+Winning rate with x = 0 and y = 0: 0.724075( 90534 / 125034 )
+Winning rate with x = 0 and y = 1: 0.722468( 90682 / 125517 )
+Winning rate with x = 1 and y = 0: 0.72172( 89909 / 124576 )
+Winning rate with x = 1 and y = 1: 0.72283( 90262 / 124873 )
+Overall winning rate: 0.722774( 361387 / 500000 )
+
+Error Rate:  0.38
+Winning rate with x = 0 and y = 0: 0.71682( 89224 / 124472 )
+Winning rate with x = 0 and y = 1: 0.719721( 90199 / 125325 )
+Winning rate with x = 1 and y = 0: 0.718509( 90106 / 125407 )
+Winning rate with x = 1 and y = 1: 0.719735( 89820 / 124796 )
+Overall winning rate: 0.718698( 359349 / 500000 )
+
+Error Rate:  0.39
+Winning rate with x = 0 and y = 0: 0.715931( 89001 / 124315 )
+Winning rate with x = 0 and y = 1: 0.716533( 89596 / 125041 )
+Winning rate with x = 1 and y = 0: 0.715065( 89622 / 125334 )
+Winning rate with x = 1 and y = 1: 0.715378( 89644 / 125310 )
+Overall winning rate: 0.715726( 357863 / 500000 )
+
+Error Rate:  0.4
+Winning rate with x = 0 and y = 0: 0.712217( 89129 / 125143 )
+Winning rate with x = 0 and y = 1: 0.711655( 88448 / 124285 )
+Winning rate with x = 1 and y = 0: 0.714666( 89652 / 125446 )
+Winning rate with x = 1 and y = 1: 0.712849( 89196 / 125126 )
+Overall winning rate: 0.71285( 356425 / 500000 )
+
+Error Rate:  0.41000000000000003
+Winning rate with x = 0 and y = 0: 0.70866( 88579 / 124995 )
+Winning rate with x = 0 and y = 1: 0.707441( 88556 / 125178 )
+Winning rate with x = 1 and y = 0: 0.708896( 88746 / 125189 )
+Winning rate with x = 1 and y = 1: 0.707818( 88221 / 124638 )
+Overall winning rate: 0.708204( 354102 / 500000 )
+
+Error Rate:  0.42
+Winning rate with x = 0 and y = 0: 0.706328( 88296 / 125007 )
+Winning rate with x = 0 and y = 1: 0.705132( 88212 / 125100 )
+Winning rate with x = 1 and y = 0: 0.706439( 88230 / 124894 )
+Winning rate with x = 1 and y = 1: 0.70359( 87948 / 124999 )
+Overall winning rate: 0.705372( 352686 / 500000 )
+
+Error Rate:  0.43
+Winning rate with x = 0 and y = 0: 0.701445( 87339 / 124513 )
+Winning rate with x = 0 and y = 1: 0.701588( 87528 / 124757 )
+Winning rate with x = 1 and y = 0: 0.702055( 88030 / 125389 )
+Winning rate with x = 1 and y = 1: 0.698854( 87595 / 125341 )
+Overall winning rate: 0.700984( 350492 / 500000 )
+
+Error Rate:  0.44
+Winning rate with x = 0 and y = 0: 0.69799( 87491 / 125347 )
+Winning rate with x = 0 and y = 1: 0.699572( 87464 / 125025 )
+Winning rate with x = 1 and y = 0: 0.699056( 87201 / 124741 )
+Winning rate with x = 1 and y = 1: 0.696798( 87021 / 124887 )
+Overall winning rate: 0.698354( 349177 / 500000 )
+
+Error Rate:  0.45
+Winning rate with x = 0 and y = 0: 0.694827( 86868 / 125021 )
+Winning rate with x = 0 and y = 1: 0.69585( 86865 / 124833 )
+Winning rate with x = 1 and y = 0: 0.695941( 87104 / 125160 )
+Winning rate with x = 1 and y = 1: 0.694414( 86792 / 124986 )
+Overall winning rate: 0.695258( 347629 / 500000 )
+
+Error Rate:  0.46
+Winning rate with x = 0 and y = 0: 0.69166( 86692 / 125339 )
+Winning rate with x = 0 and y = 1: 0.692168( 86710 / 125273 )
+Winning rate with x = 1 and y = 0: 0.688547( 85678 / 124433 )
+Winning rate with x = 1 and y = 1: 0.691513( 86408 / 124955 )
+Overall winning rate: 0.690976( 345488 / 500000 )
+
+Error Rate:  0.47000000000000003
+Winning rate with x = 0 and y = 0: 0.688612( 85923 / 124777 )
+Winning rate with x = 0 and y = 1: 0.687126( 85877 / 124980 )
+Winning rate with x = 1 and y = 0: 0.687239( 86111 / 125300 )
+Winning rate with x = 1 and y = 1: 0.688306( 85999 / 124943 )
+Overall winning rate: 0.68782( 343910 / 500000 )
+
+Error Rate:  0.48
+Winning rate with x = 0 and y = 0: 0.683242( 85285 / 124824 )
+Winning rate with x = 0 and y = 1: 0.68409( 85382 / 124811 )
+Winning rate with x = 1 and y = 0: 0.685248( 86074 / 125610 )
+Winning rate with x = 1 and y = 1: 0.684389( 85381 / 124755 )
+Overall winning rate: 0.684244( 342122 / 500000 )
+
+Error Rate:  0.49
+Winning rate with x = 0 and y = 0: 0.680872( 85363 / 125373 )
+Winning rate with x = 0 and y = 1: 0.680247( 84801 / 124662 )
+Winning rate with x = 1 and y = 0: 0.679829( 84600 / 124443 )
+Winning rate with x = 1 and y = 1: 0.678861( 85212 / 125522 )
+Overall winning rate: 0.679952( 339976 / 500000 )
+
+Error Rate:  0.5
+Winning rate with x = 0 and y = 0: 0.676092( 84717 / 125304 )
+Winning rate with x = 0 and y = 1: 0.676523( 84700 / 125199 )
+Winning rate with x = 1 and y = 0: 0.678065( 84472 / 124578 )
+Winning rate with x = 1 and y = 1: 0.673436( 84125 / 124919 )
+Overall winning rate: 0.676028( 338014 / 500000 )
+
+Error Rate:  0.51
+Winning rate with x = 0 and y = 0: 0.672812( 84265 / 125243 )
+Winning rate with x = 0 and y = 1: 0.67477( 84322 / 124964 )
+Winning rate with x = 1 and y = 0: 0.675216( 84325 / 124886 )
+Winning rate with x = 1 and y = 1: 0.670531( 83754 / 124907 )
+Overall winning rate: 0.673332( 336666 / 500000 )
+
+Error Rate:  0.52
+Winning rate with x = 0 and y = 0: 0.669883( 84008 / 125407 )
+Winning rate with x = 0 and y = 1: 0.670343( 83628 / 124754 )
+Winning rate with x = 1 and y = 0: 0.666353( 83546 / 125378 )
+Winning rate with x = 1 and y = 1: 0.668177( 83162 / 124461 )
+Overall winning rate: 0.668688( 334344 / 500000 )
+
+Error Rate:  0.53
+Winning rate with x = 0 and y = 0: 0.665856( 82682 / 124174 )
+Winning rate with x = 0 and y = 1: 0.667052( 83623 / 125362 )
+Winning rate with x = 1 and y = 0: 0.666701( 83721 / 125575 )
+Winning rate with x = 1 and y = 1: 0.665743( 83144 / 124889 )
+Overall winning rate: 0.66634( 333170 / 500000 )
+
+Error Rate:  0.54
+Winning rate with x = 0 and y = 0: 0.66333( 82761 / 124766 )
+Winning rate with x = 0 and y = 1: 0.660704( 83038 / 125681 )
+Winning rate with x = 1 and y = 0: 0.663078( 82591 / 124557 )
+Winning rate with x = 1 and y = 1: 0.661717( 82712 / 124996 )
+Overall winning rate: 0.662204( 331102 / 500000 )
+
+Error Rate:  0.55
+Winning rate with x = 0 and y = 0: 0.658649( 82449 / 125179 )
+Winning rate with x = 0 and y = 1: 0.660134( 82654 / 125208 )
+Winning rate with x = 1 and y = 0: 0.658163( 81911 / 124454 )
+Winning rate with x = 1 and y = 1: 0.65849( 82416 / 125159 )
+Overall winning rate: 0.65886( 329430 / 500000 )
+
+Error Rate:  0.56
+Winning rate with x = 0 and y = 0: 0.65572( 81902 / 124904 )
+Winning rate with x = 0 and y = 1: 0.655219( 82171 / 125410 )
+Winning rate with x = 1 and y = 0: 0.656616( 82075 / 124997 )
+Winning rate with x = 1 and y = 1: 0.655695( 81758 / 124689 )
+Overall winning rate: 0.655812( 327906 / 500000 )
+
+Error Rate:  0.5700000000000001
+Winning rate with x = 0 and y = 0: 0.650152( 81284 / 125023 )
+Winning rate with x = 0 and y = 1: 0.653438( 81636 / 124933 )
+Winning rate with x = 1 and y = 0: 0.652123( 81531 / 125024 )
+Winning rate with x = 1 and y = 1: 0.651368( 81434 / 125020 )
+Overall winning rate: 0.65177( 325885 / 500000 )
+
+Error Rate:  0.58
+Winning rate with x = 0 and y = 0: 0.647633( 80936 / 124972 )
+Winning rate with x = 0 and y = 1: 0.647464( 80720 / 124671 )
+Winning rate with x = 1 and y = 0: 0.648571( 81240 / 125260 )
+Winning rate with x = 1 and y = 1: 0.64721( 80964 / 125097 )
+Overall winning rate: 0.64772( 323860 / 500000 )
+
+Error Rate:  0.59
+Winning rate with x = 0 and y = 0: 0.645448( 80821 / 125217 )
+Winning rate with x = 0 and y = 1: 0.645762( 80369 / 124456 )
+Winning rate with x = 1 and y = 0: 0.645419( 80829 / 125235 )
+Winning rate with x = 1 and y = 1: 0.646492( 80871 / 125092 )
+Overall winning rate: 0.64578( 322890 / 500000 )
+
+Error Rate:  0.6
+Winning rate with x = 0 and y = 0: 0.639612( 80364 / 125645 )
+Winning rate with x = 0 and y = 1: 0.638087( 79653 / 124831 )
+Winning rate with x = 1 and y = 0: 0.642965( 80134 / 124632 )
+Winning rate with x = 1 and y = 1: 0.63888( 79791 / 124892 )
+Overall winning rate: 0.639884( 319942 / 500000 )
+
+Error Rate:  0.61
+Winning rate with x = 0 and y = 0: 0.637602( 79697 / 124995 )
+Winning rate with x = 0 and y = 1: 0.638136( 79499 / 124580 )
+Winning rate with x = 1 and y = 0: 0.637258( 79988 / 125519 )
+Winning rate with x = 1 and y = 1: 0.63768( 79650 / 124906 )
+Overall winning rate: 0.637668( 318834 / 500000 )
+
+Error Rate:  0.62
+Winning rate with x = 0 and y = 0: 0.635937( 79384 / 124830 )
+Winning rate with x = 0 and y = 1: 0.63088( 78696 / 124740 )
+Winning rate with x = 1 and y = 0: 0.633919( 79340 / 125158 )
+Winning rate with x = 1 and y = 1: 0.634036( 79427 / 125272 )
+Overall winning rate: 0.633694( 316847 / 500000 )
+
+Error Rate:  0.63
+Winning rate with x = 0 and y = 0: 0.633033( 79143 / 125022 )
+Winning rate with x = 0 and y = 1: 0.629524( 78693 / 125004 )
+Winning rate with x = 1 and y = 0: 0.63141( 79103 / 125280 )
+Winning rate with x = 1 and y = 1: 0.630287( 78593 / 124694 )
+Overall winning rate: 0.631064( 315532 / 500000 )
+
+Error Rate:  0.64
+Winning rate with x = 0 and y = 0: 0.625834( 78116 / 124819 )
+Winning rate with x = 0 and y = 1: 0.627309( 78428 / 125023 )
+Winning rate with x = 1 and y = 0: 0.626068( 78174 / 124865 )
+Winning rate with x = 1 and y = 1: 0.626124( 78449 / 125293 )
+Overall winning rate: 0.626334( 313167 / 500000 )
+
+Error Rate:  0.65
+Winning rate with x = 0 and y = 0: 0.622632( 77641 / 124698 )
+Winning rate with x = 0 and y = 1: 0.623075( 78032 / 125237 )
+Winning rate with x = 1 and y = 0: 0.623597( 78045 / 125153 )
+Winning rate with x = 1 and y = 1: 0.623111( 77834 / 124912 )
+Overall winning rate: 0.623104( 311552 / 500000 )
+
+Error Rate:  0.66
+Winning rate with x = 0 and y = 0: 0.619344( 77418 / 125000 )
+Winning rate with x = 0 and y = 1: 0.619919( 77599 / 125176 )
+Winning rate with x = 1 and y = 0: 0.620121( 77401 / 124816 )
+Winning rate with x = 1 and y = 1: 0.62012( 77520 / 125008 )
+Overall winning rate: 0.619876( 309938 / 500000 )
+
+Error Rate:  0.67
+Winning rate with x = 0 and y = 0: 0.616897( 77138 / 125042 )
+Winning rate with x = 0 and y = 1: 0.619064( 77339 / 124929 )
+Winning rate with x = 1 and y = 0: 0.618528( 77462 / 125236 )
+Winning rate with x = 1 and y = 1: 0.615211( 76774 / 124793 )
+Overall winning rate: 0.617426( 308713 / 500000 )
+
+Error Rate:  0.68
+Winning rate with x = 0 and y = 0: 0.610147( 76092 / 124711 )
+Winning rate with x = 0 and y = 1: 0.613122( 76650 / 125016 )
+Winning rate with x = 1 and y = 0: 0.613339( 76768 / 125164 )
+Winning rate with x = 1 and y = 1: 0.615359( 76987 / 125109 )
+Overall winning rate: 0.612994( 306497 / 500000 )
+
+Error Rate:  0.6900000000000001
+Winning rate with x = 0 and y = 0: 0.608475( 75993 / 124891 )
+Winning rate with x = 0 and y = 1: 0.610925( 76591 / 125369 )
+Winning rate with x = 1 and y = 0: 0.610502( 76411 / 125161 )
+Winning rate with x = 1 and y = 1: 0.607085( 75630 / 124579 )
+Overall winning rate: 0.60925( 304625 / 500000 )
+
+Error Rate:  0.7000000000000001
+Winning rate with x = 0 and y = 0: 0.603691( 75631 / 125281 )
+Winning rate with x = 0 and y = 1: 0.605923( 75930 / 125313 )
+Winning rate with x = 1 and y = 0: 0.606889( 75707 / 124746 )
+Winning rate with x = 1 and y = 1: 0.605302( 75457 / 124660 )
+Overall winning rate: 0.60545( 302725 / 500000 )
+
+Error Rate:  0.71
+Winning rate with x = 0 and y = 0: 0.60463( 75719 / 125232 )
+Winning rate with x = 0 and y = 1: 0.602619( 75231 / 124840 )
+Winning rate with x = 1 and y = 0: 0.603061( 75370 / 124979 )
+Winning rate with x = 1 and y = 1: 0.605327( 75635 / 124949 )
+Overall winning rate: 0.60391( 301955 / 500000 )
+
+Error Rate:  0.72
+Winning rate with x = 0 and y = 0: 0.597903( 74833 / 125159 )
+Winning rate with x = 0 and y = 1: 0.601105( 75063 / 124875 )
+Winning rate with x = 1 and y = 0: 0.599015( 74708 / 124718 )
+Winning rate with x = 1 and y = 1: 0.596776( 74745 / 125248 )
+Overall winning rate: 0.598698( 299349 / 500000 )
+
+Error Rate:  0.73
+Winning rate with x = 0 and y = 0: 0.593788( 74236 / 125021 )
+Winning rate with x = 0 and y = 1: 0.594665( 74285 / 124919 )
+Winning rate with x = 1 and y = 0: 0.594619( 74542 / 125361 )
+Winning rate with x = 1 and y = 1: 0.594985( 74194 / 124699 )
+Overall winning rate: 0.594514( 297257 / 500000 )
+
+Error Rate:  0.74
+Winning rate with x = 0 and y = 0: 0.59003( 73634 / 124797 )
+Winning rate with x = 0 and y = 1: 0.590839( 73937 / 125139 )
+Winning rate with x = 1 and y = 0: 0.593479( 74243 / 125098 )
+Winning rate with x = 1 and y = 1: 0.592665( 74063 / 124966 )
+Overall winning rate: 0.591754( 295877 / 500000 )
+
+Error Rate:  0.75
+Winning rate with x = 0 and y = 0: 0.590046( 73453 / 124487 )
+Winning rate with x = 0 and y = 1: 0.586382( 73503 / 125350 )
+Winning rate with x = 1 and y = 0: 0.586307( 73425 / 125233 )
+Winning rate with x = 1 and y = 1: 0.587209( 73360 / 124930 )
+Overall winning rate: 0.587482( 293741 / 500000 )
+
+Error Rate:  0.76
+Winning rate with x = 0 and y = 0: 0.585906( 73315 / 125131 )
+Winning rate with x = 0 and y = 1: 0.584257( 72924 / 124815 )
+Winning rate with x = 1 and y = 0: 0.582575( 72872 / 125086 )
+Winning rate with x = 1 and y = 1: 0.586366( 73277 / 124968 )
+Overall winning rate: 0.584776( 292388 / 500000 )
+
+Error Rate:  0.77
+Winning rate with x = 0 and y = 0: 0.58263( 72781 / 124918 )
+Winning rate with x = 0 and y = 1: 0.58082( 72840 / 125409 )
+Winning rate with x = 1 and y = 0: 0.581253( 72613 / 124925 )
+Winning rate with x = 1 and y = 1: 0.580699( 72441 / 124748 )
+Overall winning rate: 0.58135( 290675 / 500000 )
+
+Error Rate:  0.78
+Winning rate with x = 0 and y = 0: 0.576076( 71881 / 124777 )
+Winning rate with x = 0 and y = 1: 0.579571( 72906 / 125793 )
+Winning rate with x = 1 and y = 0: 0.577694( 72024 / 124675 )
+Winning rate with x = 1 and y = 1: 0.577949( 72102 / 124755 )
+Overall winning rate: 0.577826( 288913 / 500000 )
+
+Error Rate:  0.79
+Winning rate with x = 0 and y = 0: 0.574144( 71586 / 124683 )
+Winning rate with x = 0 and y = 1: 0.573117( 71678 / 125067 )
+Winning rate with x = 1 and y = 0: 0.576273( 72071 / 125064 )
+Winning rate with x = 1 and y = 1: 0.573019( 71734 / 125186 )
+Overall winning rate: 0.574138( 287069 / 500000 )
+
+Error Rate:  0.8
+Winning rate with x = 0 and y = 0: 0.569654( 70718 / 124142 )
+Winning rate with x = 0 and y = 1: 0.571397( 71656 / 125405 )
+Winning rate with x = 1 and y = 0: 0.572212( 71598 / 125125 )
+Winning rate with x = 1 and y = 1: 0.570152( 71456 / 125328 )
+Overall winning rate: 0.570856( 285428 / 500000 )
+
+Error Rate:  0.81
+Winning rate with x = 0 and y = 0: 0.568122( 71113 / 125172 )
+Winning rate with x = 0 and y = 1: 0.568142( 70861 / 124724 )
+Winning rate with x = 1 and y = 0: 0.568643( 71106 / 125045 )
+Winning rate with x = 1 and y = 1: 0.570107( 71297 / 125059 )
+Overall winning rate: 0.568754( 284377 / 500000 )
+
+Error Rate:  0.8200000000000001
+Winning rate with x = 0 and y = 0: 0.560435( 70222 / 125299 )
+Winning rate with x = 0 and y = 1: 0.564309( 70634 / 125169 )
+Winning rate with x = 1 and y = 0: 0.563334( 70490 / 125130 )
+Winning rate with x = 1 and y = 1: 0.562748( 70007 / 124402 )
+Overall winning rate: 0.562706( 281353 / 500000 )
+
+Error Rate:  0.8300000000000001
+Winning rate with x = 0 and y = 0: 0.558938( 70073 / 125368 )
+Winning rate with x = 0 and y = 1: 0.560125( 69833 / 124674 )
+Winning rate with x = 1 and y = 0: 0.559002( 69821 / 124903 )
+Winning rate with x = 1 and y = 1: 0.558882( 69891 / 125055 )
+Overall winning rate: 0.559236( 279618 / 500000 )
+
+Error Rate:  0.84
+Winning rate with x = 0 and y = 0: 0.558138( 69736 / 124944 )
+Winning rate with x = 0 and y = 1: 0.557749( 69766 / 125085 )
+Winning rate with x = 1 and y = 0: 0.557652( 69721 / 125026 )
+Winning rate with x = 1 and y = 1: 0.557949( 69713 / 124945 )
+Overall winning rate: 0.557872( 278936 / 500000 )
+
+Error Rate:  0.85
+Winning rate with x = 0 and y = 0: 0.554415( 69257 / 124919 )
+Winning rate with x = 0 and y = 1: 0.552692( 69076 / 124981 )
+Winning rate with x = 1 and y = 0: 0.553256( 69198 / 125074 )
+Winning rate with x = 1 and y = 1: 0.551429( 68943 / 125026 )
+Overall winning rate: 0.552948( 276474 / 500000 )
+
+Error Rate:  0.86
+Winning rate with x = 0 and y = 0: 0.54685( 68529 / 125316 )
+Winning rate with x = 0 and y = 1: 0.549782( 68781 / 125106 )
+Winning rate with x = 1 and y = 0: 0.549692( 68568 / 124739 )
+Winning rate with x = 1 and y = 1: 0.549764( 68632 / 124839 )
+Overall winning rate: 0.54902( 274510 / 500000 )
+
+Error Rate:  0.87
+Winning rate with x = 0 and y = 0: 0.545455( 68399 / 125398 )
+Winning rate with x = 0 and y = 1: 0.546323( 68197 / 124829 )
+Winning rate with x = 1 and y = 0: 0.544949( 68074 / 124918 )
+Winning rate with x = 1 and y = 1: 0.544135( 67938 / 124855 )
+Overall winning rate: 0.545216( 272608 / 500000 )
+
+Error Rate:  0.88
+Winning rate with x = 0 and y = 0: 0.544063( 67830 / 124673 )
+Winning rate with x = 0 and y = 1: 0.541542( 67846 / 125283 )
+Winning rate with x = 1 and y = 0: 0.54256( 67584 / 124565 )
+Winning rate with x = 1 and y = 1: 0.540935( 67876 / 125479 )
+Overall winning rate: 0.542272( 271136 / 500000 )
+
+Error Rate:  0.89
+Winning rate with x = 0 and y = 0: 0.539634( 67342 / 124792 )
+Winning rate with x = 0 and y = 1: 0.53788( 67306 / 125132 )
+Winning rate with x = 1 and y = 0: 0.53837( 67307 / 125020 )
+Winning rate with x = 1 and y = 1: 0.540014( 67532 / 125056 )
+Overall winning rate: 0.538974( 269487 / 500000 )
+
+Error Rate:  0.9
+Winning rate with x = 0 and y = 0: 0.534678( 66638 / 124632 )
+Winning rate with x = 0 and y = 1: 0.53407( 66873 / 125214 )
+Winning rate with x = 1 and y = 0: 0.535699( 66761 / 124624 )
+Winning rate with x = 1 and y = 1: 0.534996( 67158 / 125530 )
+Overall winning rate: 0.53486( 267430 / 500000 )
+
+Error Rate:  0.91
+Winning rate with x = 0 and y = 0: 0.5325( 66791 / 125429 )
+Winning rate with x = 0 and y = 1: 0.530245( 66103 / 124665 )
+Winning rate with x = 1 and y = 0: 0.532349( 66493 / 124905 )
+Winning rate with x = 1 and y = 1: 0.530628( 66329 / 125001 )
+Overall winning rate: 0.531432( 265716 / 500000 )
+
+Error Rate:  0.92
+Winning rate with x = 0 and y = 0: 0.529518( 66276 / 125163 )
+Winning rate with x = 0 and y = 1: 0.528391( 66088 / 125074 )
+Winning rate with x = 1 and y = 0: 0.527966( 66000 / 125008 )
+Winning rate with x = 1 and y = 1: 0.528444( 65926 / 124755 )
+Overall winning rate: 0.52858( 264290 / 500000 )
+
+Error Rate:  0.93
+Winning rate with x = 0 and y = 0: 0.522104( 65215 / 124908 )
+Winning rate with x = 0 and y = 1: 0.52491( 65609 / 124991 )
+Winning rate with x = 1 and y = 0: 0.524641( 65587 / 125013 )
+Winning rate with x = 1 and y = 1: 0.524934( 65663 / 125088 )
+Overall winning rate: 0.524148( 262074 / 500000 )
+
+Error Rate:  0.9400000000000001
+Winning rate with x = 0 and y = 0: 0.521662( 65478 / 125518 )
+Winning rate with x = 0 and y = 1: 0.523923( 65571 / 125154 )
+Winning rate with x = 1 and y = 0: 0.52049( 64990 / 124863 )
+Winning rate with x = 1 and y = 1: 0.518764( 64568 / 124465 )
+Overall winning rate: 0.521214( 260607 / 500000 )
+
+Error Rate:  0.9500000000000001
+Winning rate with x = 0 and y = 0: 0.517651( 64695 / 124978 )
+Winning rate with x = 0 and y = 1: 0.518433( 64898 / 125181 )
+Winning rate with x = 1 and y = 0: 0.51905( 64710 / 124670 )
+Winning rate with x = 1 and y = 1: 0.517572( 64785 / 125171 )
+Overall winning rate: 0.518176( 259088 / 500000 )
+
+Error Rate:  0.96
+Winning rate with x = 0 and y = 0: 0.513783( 64320 / 125189 )
+Winning rate with x = 0 and y = 1: 0.514747( 64207 / 124735 )
+Winning rate with x = 1 and y = 0: 0.512284( 64221 / 125362 )
+Winning rate with x = 1 and y = 1: 0.514986( 64226 / 124714 )
+Overall winning rate: 0.513948( 256974 / 500000 )
+
+Error Rate:  0.97
+Winning rate with x = 0 and y = 0: 0.509307( 63670 / 125013 )
+Winning rate with x = 0 and y = 1: 0.510863( 63700 / 124691 )
+Winning rate with x = 1 and y = 0: 0.509207( 63937 / 125562 )
+Winning rate with x = 1 and y = 1: 0.5112( 63764 / 124734 )
+Overall winning rate: 0.510142( 255071 / 500000 )
+
+Error Rate:  0.98
+Winning rate with x = 0 and y = 0: 0.507485( 63221 / 124577 )
+Winning rate with x = 0 and y = 1: 0.507826( 63590 / 125220 )
+Winning rate with x = 1 and y = 0: 0.509112( 63558 / 124841 )
+Winning rate with x = 1 and y = 1: 0.507139( 63576 / 125362 )
+Overall winning rate: 0.50789( 253945 / 500000 )
+
+Error Rate:  0.99
+Winning rate with x = 0 and y = 0: 0.500853( 62545 / 124877 )
+Winning rate with x = 0 and y = 1: 0.501771( 62762 / 125081 )
+Winning rate with x = 1 and y = 0: 0.50272( 62838 / 124996 )
+Winning rate with x = 1 and y = 1: 0.504766( 63119 / 125046 )
+Overall winning rate: 0.502528( 251264 / 500000 )
+
+Error Rate:  1.0
+Winning rate with x = 0 and y = 0: 0.500811( 62661 / 125119 )
+Winning rate with x = 0 and y = 1: 0.500579( 62667 / 125189 )
+Winning rate with x = 1 and y = 0: 0.499691( 62353 / 124783 )
+Winning rate with x = 1 and y = 1: 0.498123( 62220 / 124909 )
+Overall winning rate: 0.499802( 249901 / 500000 )

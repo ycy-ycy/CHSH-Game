@@ -1,0 +1,28 @@
+Classical Strategy
+Winning rate with x = 0 and y = 0: 1( 124941 / 124941 )
+Winning rate with x = 0 and y = 1: 1( 125131 / 125131 )
+Winning rate with x = 1 and y = 0: 1( 124776 / 124776 )
+Winning rate with x = 1 and y = 1: 0( 0 / 125152 )
+Overall winning rate: 0.749696( 374848 / 500000 )
+
+Pure Random
+Winning rate with x = 0 and y = 0: 0.500348( 62514 / 124941 )
+Winning rate with x = 0 and y = 1: 0.499821( 62774 / 125593 )
+Winning rate with x = 1 and y = 0: 0.501683( 62450 / 124481 )
+Winning rate with x = 1 and y = 1: 0.50166( 62700 / 124985 )
+Overall winning rate: 0.500876( 250438 / 500000 )
+
+Perfect Quantum Strategy with 0/1 Basis
+Winning rate with x = 0 and y = 0: 1( 125271 / 125271 )
+Winning rate with x = 0 and y = 1: 1( 125282 / 125282 )
+Winning rate with x = 1 and y = 0: 1( 124505 / 124505 )
+Winning rate with x = 1 and y = 1: 0( 0 / 124942 )
+Overall winning rate: 0.750116( 375058 / 500000 )
+
+Perfect Quantum Strategy with Optimal Basis
+Winning rate with x = 0 and y = 0: 0.853734( 106289 / 124499 )
+Winning rate with x = 0 and y = 1: 0.853752( 106976 / 125301 )
+Winning rate with x = 1 and y = 0: 0.853354( 106653 / 124981 )
+Winning rate with x = 1 and y = 1: 0.852466( 106745 / 125219 )
+Overall winning rate: 0.853326( 426663 / 500000 )
+

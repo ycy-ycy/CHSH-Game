@@ -1,0 +1,63 @@
+Error rate:  0.0
+Diff_a:  -47.157731077957905  Diff_0:  -23.129259513738578  Diff_b:  45.418245438972946
+Winning rate with x = 0 and y = 0: 0.846617( 21107 / 24931 )
+Winning rate with x = 0 and y = 1: 0.854033( 21379 / 25033 )
+Winning rate with x = 1 and y = 0: 0.836267( 20997 / 25108 )
+Winning rate with x = 1 and y = 1: 0.87861( 21902 / 24928 )
+Overall winning rate: 0.85385( 85385 / 100000 )
+
+Error rate:  0.01
+Diff_a:  -47.570503182700456  Diff_0:  -23.641749767726246  Diff_b:  45.363544943281376
+Winning rate with x = 0 and y = 0: 0.83471( 21114 / 25295 )
+Winning rate with x = 0 and y = 1: 0.862516( 21625 / 25072 )
+Winning rate with x = 1 and y = 0: 0.829631( 20501 / 24711 )
+Winning rate with x = 1 and y = 1: 0.874087( 21784 / 24922 )
+Overall winning rate: 0.85024( 85024 / 100000 )
+
+Error rate:  0.02
+Diff_a:  43.71817057925247  Diff_0:  21.550374841442718  Diff_b:  -42.48024103229183
+Winning rate with x = 0 and y = 0: 0.858692( 21457 / 24988 )
+Winning rate with x = 0 and y = 1: 0.862186( 21421 / 24845 )
+Winning rate with x = 1 and y = 0: 0.846473( 21238 / 25090 )
+Winning rate with x = 1 and y = 1: 0.810065( 20314 / 25077 )
+Overall winning rate: 0.8443( 84430 / 100000 )
+
+Error rate:  0.05
+Diff_a:  -45.528907422484494  Diff_0:  -23.352657236718606  Diff_b:  46.20135631732234
+Winning rate with x = 0 and y = 0: 0.824713( 20457 / 24805 )
+Winning rate with x = 0 and y = 1: 0.833466( 20930 / 25112 )
+Winning rate with x = 1 and y = 0: 0.83724( 20967 / 25043 )
+Winning rate with x = 1 and y = 1: 0.849161( 21263 / 25040 )
+Overall winning rate: 0.83617( 83617 / 100000 )
+
+Error rate:  0.1
+Diff_a:  -46.847819886699206  Diff_0:  -23.411747829329126  Diff_b:  44.86738630198251
+Winning rate with x = 0 and y = 0: 0.805572( 20008 / 24837 )
+Winning rate with x = 0 and y = 1: 0.829152( 20820 / 25110 )
+Winning rate with x = 1 and y = 0: 0.809748( 20102 / 24825 )
+Winning rate with x = 1 and y = 1: 0.824639( 20804 / 25228 )
+Overall winning rate: 0.81734( 81734 / 100000 )
+
+Error rate:  0.2
+Diff_a:  -44.8424085936891  Diff_0:  -24.613003743111882  Diff_b:  45.258776069338225
+Winning rate with x = 0 and y = 0: 0.764318( 19244 / 25178 )
+Winning rate with x = 0 and y = 1: 0.80221( 20186 / 25163 )
+Winning rate with x = 1 and y = 0: 0.796639( 19767 / 24813 )
+Winning rate with x = 1 and y = 1: 0.764067( 18984 / 24846 )
+Overall winning rate: 0.78181( 78181 / 100000 )
+
+Error rate:  0.5
+Diff_a:  47.78802425125476  Diff_0:  26.153120478137218  Diff_b:  -44.272061315765754
+Winning rate with x = 0 and y = 0: 0.656211( 16381 / 24963 )
+Winning rate with x = 0 and y = 1: 0.701922( 17527 / 24970 )
+Winning rate with x = 1 and y = 0: 0.685256( 17178 / 25068 )
+Winning rate with x = 1 and y = 1: 0.665707( 16642 / 24999 )
+Overall winning rate: 0.67728( 67728 / 100000 )
+
+Error rate:  0.99
+Diff_a:  -44.365160080913235  Diff_0:  -32.339328022916575  Diff_b:  65.00432090147507
+Winning rate with x = 0 and y = 0: 0.508313( 12627 / 24841 )
+Winning rate with x = 0 and y = 1: 0.502291( 12608 / 25101 )
+Winning rate with x = 1 and y = 0: 0.502043( 12533 / 24964 )
+Winning rate with x = 1 and y = 1: 0.504862( 12669 / 25094 )
+Overall winning rate: 0.50437( 50437 / 100000 )
